@@ -1,0 +1,15 @@
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\Exchange.Bittrex.dll
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\Exchange.Bittrex.pdb
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\Common.Contracts.dll
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\Newtonsoft.Json.dll
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\System.Net.Http.Extensions.dll
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\System.Net.Http.Primitives.dll
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\Common.Contracts.pdb
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\Newtonsoft.Json.xml
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\System.Net.Http.Extensions.xml
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\bin\Debug\System.Net.Http.Primitives.xml
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\obj\Debug\Exchange.Bittrex.csprojResolveAssemblyReference.cache
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\obj\Debug\Exchange.Bittrex.csproj.CoreCompileInputs.cache
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\obj\Debug\Exchange.Bittrex.csproj.CopyComplete
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\obj\Debug\Exchange.Bittrex.dll
+C:\PROJECTS\ExcahngesApi\Exchange.Bittrex\obj\Debug\Exchange.Bittrex.pdb

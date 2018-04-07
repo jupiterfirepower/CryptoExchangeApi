@@ -1,0 +1,55 @@
+﻿NODE,//Bter
+        NFD,//Bter
+        NTX,//Bter
+        PRT,//Bter
+        ROX,//Bter
+        SFR,//Bter
+        SLM,//Bter
+        MGW,//Bter   -
+        UNITY,//Bter   -
+        ATOMIC,//Bter --
+        MRKT,//Bter --
+        SPARK,//Bter
+        SWIFT,//Bter --
+        XTC,//Bter
+        VIA,//Bter
+        XCN,//Bter
+        XCR,//Bter
+        DICE,//Bter --
+        XCH,//Bter  --
+        NXTTY,//Bter --
+        TOKEN,//Bter --
+        AC,//Bter
+        ARCH,//Bter --
+        BBR,//Bter--
+        BTCD,//Bter
+        BTQ,//Bter
+        BTSX,//Bter
+        BITUSD,//Bter --
+        BLOCK,//Bter--
+        DTC,//Bter
+        DOGE,//Bter
+        C2,//Bter
+        CDC,//Bter
+        CKC,//Bter--
+        COMM,//Bter
+        CNY,//Bter
+        BITCNY,//Bter--
+        DNS,//Bter--
+        DRKC,//Bter--
+        EXC,//Bter
+        FLT,//Bter
+        FRSH,//Bter
+        GML,//Bter--
+        GHOST,//Bter
+        KDC,//Bter
+        LTS,//Bter
+        MAX,//Bter
+        MMC,//Bter
+        NAS,//Bter
+        NBT,//Bter--
+        NAV,//Bter
+        NSR,//Bter--
+        TAG,//Bter
+        TIPS,//Bter
+        ZCC,//Bter
