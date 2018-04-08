@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange.BitFinex", "Exchan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Contracts", "Common.Contracts\Common.Contracts.csproj", "{C439E528-CC69-401D-BE66-E3630AB3595E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange.Cex", "Exchange.Cex\Exchange.Cex.csproj", "{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,14 @@ Global
 		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|x64.ActiveCfg = Release|Any CPU
 		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|x64.Build.0 = Release|Any CPU
+		{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}.Debug|x64.Build.0 = Debug|Any CPU
+		{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}.Release|x64.ActiveCfg = Release|Any CPU
+		{B4251D4A-4AAF-41FD-8B55-816F2FE1F351}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

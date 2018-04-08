@@ -60,6 +60,7 @@
     <Compile Include="OrderBook.cs" />
     <Compile Include="OrderBookEqualityComparer.cs" />
     <Compile Include="OrderChange.cs" />
+    <Compile Include="OrderSide.cs" />
     <Compile Include="OrderStatus.cs" />
     <Compile Include="OrderType.cs" />
     <Compile Include="Pair.cs" />
@@ -72,6 +73,7 @@
     <Compile Include="SupportedCurrency.cs" />
     <Compile Include="SupportedCurrencyHelper.cs" />
     <Compile Include="TimeInForce.cs" />
+    <Compile Include="UnixTime.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
