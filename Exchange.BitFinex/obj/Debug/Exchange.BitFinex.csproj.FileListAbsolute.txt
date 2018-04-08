@@ -14,3 +14,4 @@ C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.csproj.Co
 C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.csproj.CopyComplete
 C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.dll
 C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.pdb
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.csprojResolveAssemblyReference.cache

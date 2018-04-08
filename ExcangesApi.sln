@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Contracts", "Common\Common.Contracts\Common.Contracts.csproj", "{C439E528-CC69-401D-BE66-E3630AB3595E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange.Bittrex", "Exchange.Bittrex\Exchange.Bittrex.csproj", "{5D65BC51-C501-4C17-B589-1E4CC4FE985A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange.Bter", "Exchange.Bter\Exchange.Bter.csproj", "{72181FB7-179B-492B-8FB0-2430D197EBFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange.BitFinex", "Exchange.BitFinex\Exchange.BitFinex.csproj", "{F9638E24-A631-4C16-8AD2-292FE8AA54EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Contracts", "Common.Contracts\Common.Contracts.csproj", "{C439E528-CC69-401D-BE66-E3630AB3595E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,6 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C439E528-CC69-401D-BE66-E3630AB3595E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C439E528-CC69-401D-BE66-E3630AB3595E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C439E528-CC69-401D-BE66-E3630AB3595E}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{C439E528-CC69-401D-BE66-E3630AB3595E}.Debug|x64.Build.0 = Debug|Any CPU
-		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|x64.ActiveCfg = Release|Any CPU
-		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|x64.Build.0 = Release|Any CPU
 		{5D65BC51-C501-4C17-B589-1E4CC4FE985A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5D65BC51-C501-4C17-B589-1E4CC4FE985A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D65BC51-C501-4C17-B589-1E4CC4FE985A}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -51,6 +43,14 @@ Global
 		{F9638E24-A631-4C16-8AD2-292FE8AA54EF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F9638E24-A631-4C16-8AD2-292FE8AA54EF}.Release|x64.ActiveCfg = Release|Any CPU
 		{F9638E24-A631-4C16-8AD2-292FE8AA54EF}.Release|x64.Build.0 = Release|Any CPU
+		{C439E528-CC69-401D-BE66-E3630AB3595E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C439E528-CC69-401D-BE66-E3630AB3595E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C439E528-CC69-401D-BE66-E3630AB3595E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C439E528-CC69-401D-BE66-E3630AB3595E}.Debug|x64.Build.0 = Debug|Any CPU
+		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|x64.ActiveCfg = Release|Any CPU
+		{C439E528-CC69-401D-BE66-E3630AB3595E}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

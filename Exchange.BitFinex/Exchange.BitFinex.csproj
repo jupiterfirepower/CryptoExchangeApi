@@ -77,7 +77,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Common\Common.Contracts\Common.Contracts.csproj">
+    <ProjectReference Include="..\Common.Contracts\Common.Contracts.csproj">
       <Project>{c439e528-cc69-401d-be66-e3630ab3595e}</Project>
       <Name>Common.Contracts</Name>
     </ProjectReference>
