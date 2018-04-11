@@ -1,0 +1,16 @@
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\Exchange.BitFinex.dll.config
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\Exchange.BitFinex.dll
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\Exchange.BitFinex.pdb
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\Common.Contracts.dll
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\Newtonsoft.Json.dll
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\System.Net.Http.Extensions.dll
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\System.Net.Http.Primitives.dll
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\Common.Contracts.pdb
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\Newtonsoft.Json.xml
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\System.Net.Http.Extensions.xml
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\bin\Debug\System.Net.Http.Primitives.xml
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.csproj.App.config
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.csproj.CoreCompileInputs.cache
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.csproj.CopyComplete
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.dll
+C:\PROJECTS\ExcahngesApi\Exchange.BitFinex\obj\Debug\Exchange.BitFinex.pdb
