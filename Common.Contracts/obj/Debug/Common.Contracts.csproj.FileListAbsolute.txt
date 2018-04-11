@@ -1,9 +1,0 @@
-C:\PROJECTS\ExcahngesApi\Common.Contracts\bin\Debug\Common.Contracts.dll
-C:\PROJECTS\ExcahngesApi\Common.Contracts\bin\Debug\Common.Contracts.pdb
-C:\PROJECTS\ExcahngesApi\Common.Contracts\bin\Debug\Newtonsoft.Json.dll
-C:\PROJECTS\ExcahngesApi\Common.Contracts\bin\Debug\Newtonsoft.Json.xml
-C:\PROJECTS\ExcahngesApi\Common.Contracts\obj\Debug\Common.Contracts.csprojResolveAssemblyReference.cache
-C:\PROJECTS\ExcahngesApi\Common.Contracts\obj\Debug\Common.Contracts.csproj.CoreCompileInputs.cache
-C:\PROJECTS\ExcahngesApi\Common.Contracts\obj\Debug\Common.Contracts.csproj.CopyComplete
-C:\PROJECTS\ExcahngesApi\Common.Contracts\obj\Debug\Common.Contracts.dll
-C:\PROJECTS\ExcahngesApi\Common.Contracts\obj\Debug\Common.Contracts.pdb
